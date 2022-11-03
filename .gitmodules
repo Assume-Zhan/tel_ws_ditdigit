@@ -1,3 +1,9 @@
 [submodule "nav_mec"]
 	path = nav_mec
 	url = https://github.com/Assume-Zhan/nav_mec.git
+[submodule "main_sm"]
+	path = main_sm
+	url = https://github.com/Assume-Zhan/main_sm.git
+[submodule "IMU_driver"]
+	path = IMU_driver
+	url = https://github.com/Assume-Zhan/IMU_driver.git
