@@ -1,0 +1,6 @@
+[submodule "tel_ws_ditdigit"]
+	path = tel_ws_ditdigit
+	url = https://github.com/Assume-Zhan/tel_ws_ditdigit.git
+[submodule "nav_mec"]
+	path = nav_mec
+	url = https://github.com/Assume-Zhan/nav_mec.git
